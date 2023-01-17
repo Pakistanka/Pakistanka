@@ -17,7 +17,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-553344??style=social&logo=html5&&logoColor=beige)
 ![SCSS](https://img.shields.io/badge/-SCSS-beige??style=social&logo=sass&&logoColor=553344)
 
-### 📫 Follow me: ...
+### 📫 Follow me:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-beige??style=social&logo=telegram&&logoColor=553344)](https://t.me/annapolo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-553344??style=social&logo=linkedin&&logoColor=beige)](https://www.linkedin.com/in/anastasia-polozova-021686136/)
 
 <!--
 **Pakistanka/Pakistanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
