@@ -1,10 +1,21 @@
-[![Header](https://github.com/Pakistanka/Pakistanka/blob/main/assets/github.png)]
+![Header](https://github.com/Pakistanka/Pakistanka/blob/main/assets/github.png)
+
+## I'm a Middle Frontend Developer
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 About me ...
-- 💬 Languages and Tools ...
-- 📫 Follow me: ...
+### 💬 Languages and Tools
+
+![React](https://img.shields.io/badge/-React-beige??style=social&logo=react&&logoColor=553344)
+![Redux](https://img.shields.io/badge/-Redux-553344??style=social&logo=redux&&logoColor=beige)
+![MobX](https://img.shields.io/badge/-MobX-beige??style=social&logo=mobx&&logoColor=553344)
+![HTML5](https://img.shields.io/badge/-HTML5-553344??style=social&logo=html5&&logoColor=beige)
+![SCSS](https://img.shields.io/badge/-SCSS-beige??style=social&logo=sass&&logoColor=553344)
+
+### 📫 Follow me: ...
 
 <!--
 **Pakistanka/Pakistanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
