@@ -11,6 +11,8 @@
 
 ![React](https://img.shields.io/badge/-React-beige??style=social&logo=react&&logoColor=553344)
 ![Redux](https://img.shields.io/badge/-Redux-553344??style=social&logo=redux&&logoColor=beige)
+![JavaScript](https://img.shields.io/badge/-javascript-beige??style=social&logo=mobx&&logoColor=553344)
+![TypeScript](https://img.shields.io/badge/-TypeScript-553344??style=social&logo=typescript&&logoColor=beige)
 ![MobX](https://img.shields.io/badge/-MobX-beige??style=social&logo=mobx&&logoColor=553344)
 ![HTML5](https://img.shields.io/badge/-HTML5-553344??style=social&logo=html5&&logoColor=beige)
 ![SCSS](https://img.shields.io/badge/-SCSS-beige??style=social&logo=sass&&logoColor=553344)
