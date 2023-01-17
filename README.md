@@ -2,11 +2,13 @@
 
 ## I'm a Middle Frontend Developer
 
+🌱 I’m currently learning Algorithms, deepen my React, Redux, TypeScript knowledge.
 
+Also I'm a mentor at the HTMLAcademy.
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 About me ...
+- 👯 About me ... -->
 ### 💬 Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-beige??style=social&logo=react&&logoColor=553344)
