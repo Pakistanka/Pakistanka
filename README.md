@@ -1,8 +1,6 @@
 ![Header](https://github.com/Pakistanka/Pakistanka/blob/main/assets/github.png)
 
-## I'm a Middle Frontend Developer
-
-🌱 I’m currently learning Algorithms, deepen my React, Redux, TypeScript knowledge.
+## I'm a Senior Frontend Developer
 
 Also I'm a mentor at the HTMLAcademy.
 
