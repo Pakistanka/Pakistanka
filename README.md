@@ -1,8 +1,8 @@
 ![Header](https://github.com/Pakistanka/Pakistanka/blob/main/assets/github.png)
 
-## I'm a Senior Frontend Developer
+## I'm a Middle Frontend Developer
 
-Also I'm a mentor at the HTMLAcademy.
+'m a passionate Middle Frontend Developer with hands-on experience building responsive, user-focused web applications. I specialize in modern frontend technologies like HTML, CSS, JavaScript, and frameworks such as React, NextJS, MobX, TypeScript. I take pride in writing clean, maintainable code and delivering thoughtful UI/UX solutions.
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
